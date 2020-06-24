@@ -1,0 +1,39 @@
+p.u{
+	text-align : justify;
+	font-size : 12pt;
+	color : #000000
+}
+p.big{
+	text-align : left;
+	font-size : 16pt;
+	text-indent : 3em;
+	color : #808000
+}
+p.record{
+	font-size : 12pt;
+	text-align : justify;
+	margin-left : 5%;
+	color : #000000
+}
+p { font-family : univers; font-style: italic; font-size : 32; color : #808000 }
+p.shadow { font-family : univers; font-style: italic; font-size : 32; color : linen}
+a{
+	color: #35311E;
+	font-size : 12pt;
+	text-decoration: none;
+	font-style: italic
+}
+a.nonref{
+	color: #000000;
+	font-size : 12pt;
+	text-decoration: none;
+	font-style: normal
+}
+body{
+	font-size : 12pt;
+	margin-left : 5%;
+	margin-right : 7 %;
+	font-family: univers,times,fantasy,verdana,arial,helvetica;
+	color : #35311E;
+	background : #D9C8A8
+}
